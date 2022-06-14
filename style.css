@@ -42,7 +42,7 @@ p, li{
 .card{
     padding: 2rem;
     background-color: var(--Dark-Blue);
-    border-radius: 10px;
+    border-radius: 20px;
     width: 21rem;
 }
 
